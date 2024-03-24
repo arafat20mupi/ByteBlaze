@@ -7,7 +7,7 @@ const MainPage = () => {
         <div>
             <div><Navbar /></div>
             <div> <Outlet></Outlet> </div>
-            <div><Footer/></div>
+            <div><Footer /></div>
         </div>
     );
 };
